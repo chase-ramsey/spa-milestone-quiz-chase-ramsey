@@ -1,0 +1,32 @@
+
+{
+	"cars": [
+		{
+			"make": "Mercury",
+			"model": "Sable",
+			"year": "1995",
+			"price": "1799",
+			"color": "lightgrey",
+			"purchased": "false",
+			"description": "This car was a real piece of junk that was handed down to me from my sister, who had it handed down from our grandfather, who had way to much money to be driving this embarassment of a motor vehicle. It comes with blue cloth interior and an old Sony Discman you can plug into the tape player."
+		},
+		{
+			"make": "Chevrolet",
+			"model": "Blazer",
+			"year": "2000",
+			"price": "2599",
+			"color": "gold",
+			"purchased": "false",
+			"description": "It seems almost like a matter of fate that I inherited this car from my dad, when you consider I was in the room when he shook hands with the salesman he bought it from. It was great car for a teenager in a band until it exploded on the side of Lookout Mountain. Leather seats and seat warmers. A steal at $2599."
+		},
+		{
+			"make": "Jeep",
+			"model": "Wrangler",
+			"year": "1997",
+			"price": "3399",
+			"color": "black",
+			"purchased": "false",
+			"description": "My current car, in need of a loving family to see it through its golden years. It's a 5-speed Wrangler Sport, with a 6-cylinder engine and a tan cloth top. Not great gas mileage, but excellent fun mileage. Door removal mandatory at least once per summer&mdash;this baby needs to feel the breeze."
+		}
+	]
+}
