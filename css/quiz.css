@@ -1,0 +1,85 @@
+
+
+/*-__________ Top-level styles __________-*/
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: #30638E;
+}
+
+.wrapper {
+	width: 95%;
+}
+
+
+/*-__________ Header styles __________-*/
+
+/* Form */
+
+.form-group input[type="text"] {
+	width: 500px;
+	color: #D1495B;
+}
+
+label {
+	margin: 0 50px;
+}
+
+input[type="checkbox"] {
+	margin-right: 10px;
+}
+
+.disabled {
+	color: darkgrey;
+}
+
+
+/*-__________ Main content area styles __________-*/
+
+.card {
+	background: #fff;
+	border-radius: 3px;
+	margin-bottom: 20px;
+}
+
+/* Description list */
+
+dl {
+	border: 1px solid;
+	border-radius: 2px;
+	padding: 5px;
+}
+
+dt,
+dd {
+	padding: 10px;
+}
+
+dd {
+	background: #dadada;
+	border-radius: 2px;
+}
+
+.available {
+	color: #2FBF71;
+}
+
+.backorder {
+	color: #D1495B;
+}
+
+/*-__________ Toggle styles [do not override] __________-*/
+
+.card-focus {
+	background: #74D39E;
+}
+
+.card-focus-border {
+	border: 3px solid #fff;
+}
