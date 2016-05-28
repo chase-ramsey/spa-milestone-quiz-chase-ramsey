@@ -18,7 +18,7 @@ var Carlot = (function(aug) {
 			}
 		Carlot.populatePage(inventory);
 		});
-		requestData.open("GET", "js/inventory.json");
+		requestData.open("GET", "https://raw.githubusercontent.com/chase-ramsey/spa-milestone-quiz-chase-ramsey/master/js/inventory.json");
 		requestData.send();
 	};
 
